@@ -1,5 +1,6 @@
 # Algorithm_04
 20142611 이하람
+MODEL 1 : 3 Layers with 1 Convolution layer
 1. Model
 <img width="636" alt="1-1" src="https://user-images.githubusercontent.com/62413705/83596475-a7186b80-a59f-11ea-8291-8232f4d70add.png">
 2. Training with Training loss
@@ -11,6 +12,7 @@
 5. Images and corresponding probability that predicted Wrong
 <img width="734" alt="1-5" src="https://user-images.githubusercontent.com/62413705/83596481-a8e22f00-a59f-11ea-99ac-a65bc8ce1f01.png">
 
+MODEL 2 : 3 Layers with 1 Convolution layer
 1. Model
 <img width="626" alt="2-1" src="https://user-images.githubusercontent.com/62413705/83596483-a97ac580-a59f-11ea-9305-98bbc0ff762e.png">
 2. Training with Training loss
@@ -22,6 +24,7 @@
 5. Images and corresponding probability that predicted Wrong
 <img width="732" alt="2-5" src="https://user-images.githubusercontent.com/62413705/83596488-aaabf280-a59f-11ea-95ee-65766072d392.png">
 
+MODEL 3 : 3 Layers with 1 Convolution layer
 1. Model
 <img width="611" alt="3-1" src="https://user-images.githubusercontent.com/62413705/83596489-ab448900-a59f-11ea-9d40-6613838acf43.png">
 2. Training with Training loss
