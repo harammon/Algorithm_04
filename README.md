@@ -1,5 +1,3 @@
-# Algorithm_04
-20142611 이하람
 ## MODEL 1 : 3 Layers with 1 Convolution layer
 1. Model
 <img width="636" alt="1-1" src="https://user-images.githubusercontent.com/62413705/83596475-a7186b80-a59f-11ea-8291-8232f4d70add.png">
